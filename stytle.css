@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Pea-Stacy-Fancy';
+    src:url('Pea-Stacy-Fancy.ttf.woff') format('woff'),
+        url('Pea-Stacy-Fancy.ttf.svg#Pea-Stacy-Fancy') format('svg'),
+        url('Pea-Stacy-Fancy.ttf.eot'),
+        url('Pea-Stacy-Fancy.ttf.eot?#iefix') format('embedded-opentype'); 
+        font-weight: normal;
+        font-style: normal;
+}
+
+
+h6 { 
+   font-family: 'Pea-Stacy-Fancy';
+   margin-bottom: 0px;
+   padding-bottom: 5px;
+}  
